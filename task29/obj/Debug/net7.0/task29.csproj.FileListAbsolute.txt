@@ -1,0 +1,15 @@
+D:\study\geekbrains\sem-4\task29\bin\Debug\net7.0\task29.exe
+D:\study\geekbrains\sem-4\task29\bin\Debug\net7.0\task29.deps.json
+D:\study\geekbrains\sem-4\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+D:\study\geekbrains\sem-4\task29\bin\Debug\net7.0\task29.dll
+D:\study\geekbrains\sem-4\task29\bin\Debug\net7.0\task29.pdb
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.csproj.AssemblyReference.cache
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.dll
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\refint\task29.dll
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.pdb
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+D:\study\geekbrains\sem-4\task29\obj\Debug\net7.0\ref\task29.dll
